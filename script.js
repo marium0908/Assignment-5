@@ -81,7 +81,7 @@ card.innerHTML=`
 <img src="assets/${issue.status}.png">
 
 <span class="text-[10px] px-2 py-[2px] rounded-full ${priorityColor}">
-${issue.priority.toLowerCase()}
+${issue.priority.toUpperCase()}
 </span>
 
 </div>

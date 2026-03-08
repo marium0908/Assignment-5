@@ -14,6 +14,8 @@ const PI = 3.14 → the value stays the same and cannot be changed later.
 2️. What is the Spread Operator (...)?
 
 The spread operator is used to expand or copy elements from arrays or properties from objects. It allows developers to easily combine arrays, copy arrays or objects, and pass multiple values without modifying the original data. It helps write cleaner and more readable code, especially when working with modern JavaScript frameworks.
+A list [1, 2, 3] can be expanded to create a new list like [1, 2, 3, 4, 5].
+This makes working with arrays and objects easier and cleaner.
 
 3️. Difference between map(), filter(), and forEach()
 

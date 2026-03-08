@@ -4,8 +4,11 @@ var, let, and const are used to declare variables in JavaScript. var is the olde
 let was introduced in ES6. It is block-scoped, which means it only exists inside the block where it is created. It can be updated but cannot be redeclared in the same scope.
 const was also introduced in ES6. It is block-scoped like let, but its value cannot be reassigned after it is declared. It is usually used for values that should not change.
 In modern JavaScript development, developers mostly use let and const instead of var.
+
 var name = "Alex" → the variable can be declared again and changed.
+
 let age = 20 → the value can change to 21, but the variable cannot be declared again in the same block.
+
 const PI = 3.14 → the value stays the same and cannot be changed later.
 
 2️. What is the Spread Operator (...)?

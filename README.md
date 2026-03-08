@@ -22,6 +22,12 @@ This makes working with arrays and objects easier and cleaner.
 These are common array methods used to work with lists of data. map() is used when we want to transform each item in an array and create a new array with the modified values. filter() is used when we want to select specific items from an array based on a condition. It returns a new array containing only the items that match the condition.
 forEach() is used to run a function for every item in an array. Unlike map() and filter(), it does not return a new array. It is mainly used when we just want to perform an action for each item.
 
+In map() [1,2,3] becomes [2,4,6].
+
+In filter() [1,2,3,4] becomes [2,4] when selecting even numbers.
+
+In forEach() [1,2,3] prints each number separately.
+
 4️. What is an Arrow Function?
 
 An arrow function is a shorter and cleaner way to write functions in JavaScript. It was introduced in ES6 and is commonly used in modern JavaScript. Arrow functions make code more concise and are widely used in callbacks and when working with array methods or frameworks like React.

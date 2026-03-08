@@ -30,7 +30,7 @@ In forEach() [1,2,3] prints each number separately.
 
 4️. What is an Arrow Function?
 
-An arrow function is a shorter and cleaner way to write functions in JavaScript. It was introduced in ES6 and is commonly used in modern JavaScript. Arrow functions make code more concise and are widely used in callbacks and when working with array methods or frameworks like React.
+An arrow function is a shorter and cleaner way to write functions in JavaScript. It was introduced in ES6 and is commonly used in modern JavaScript. Arrow functions make code more concise and are widely used in callbacks and when working with array methods or frameworks like React. A function that adds two numbers can be written in a shorter arrow function style that directly returns the result.
 
 5️. What are Template Literals?
 
